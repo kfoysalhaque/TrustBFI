@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Dataset (4.6 GB), downloaded by fetch_dataset.py
+Dataset/

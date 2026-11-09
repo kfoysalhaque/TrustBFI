@@ -1,0 +1,19 @@
+method,enroll_loc,score_loc,condition,fvr_pct,fv_per_1k,detection,de_mean,operating_param,n_false_verif,n_windows
+Score threshold,8,1,cross,1.2358,12.3581,1.0,1.788,0.8528,392,31720
+TrustBFI,8,1,cross,0.64,6.3997,0.95,5.0,0.0456,203,31720
+Score threshold,8,2,cross,0.9016,9.0164,1.0,1.788,0.8528,286,31720
+TrustBFI,8,2,cross,0.6494,6.4943,0.95,5.0,0.0456,206,31720
+Score threshold,8,3,cross,0.6306,6.3056,1.0,1.788,0.8528,200,31718
+TrustBFI,8,3,cross,0.64,6.4002,0.95,5.0,0.0456,203,31718
+Score threshold,8,4,cross,0.6683,6.6835,1.0,1.788,0.8528,212,31720
+TrustBFI,8,4,cross,0.64,6.3997,0.95,5.0,0.0456,203,31720
+Score threshold,8,5,cross,0.8134,8.1337,1.0,1.788,0.8528,258,31720
+TrustBFI,8,5,cross,0.6368,6.3682,0.95,5.0,0.0456,202,31720
+Score threshold,8,6,cross,0.7314,7.314,1.0,1.788,0.8528,232,31720
+TrustBFI,8,6,cross,0.6463,6.4628,0.95,5.0,0.0456,205,31720
+Score threshold,8,7,cross,0.681,6.8096,1.0,1.788,0.8528,216,31720
+TrustBFI,8,7,cross,0.6431,6.4313,0.95,5.0,0.0456,204,31720
+Score threshold,8,8,same,0.6074,6.0739,1.0,1.788,0.8528,69,11360
+TrustBFI,8,8,same,0.6162,6.162,0.95,5.0,0.0456,70,11360
+Score threshold,8,9,cross,0.6053,6.053,1.0,1.788,0.8528,192,31720
+TrustBFI,8,9,cross,0.6431,6.4313,0.95,5.0,0.0456,204,31720
